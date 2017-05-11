@@ -1,1 +1,6 @@
-"# Stock-Price-Predictor" 
+"# Stock-Price-Predictor"
+
+Support Vector Machine
+
+Support Vector Regression
+
